@@ -16,7 +16,7 @@ Transform your meeting recordings and transcripts into actionable tasks automati
 - **Edit & Delete**: Modify task details or remove tasks as needed
 - **Export Options**: Download tasks as CSV for integration with other tools
 
-### Audio & Video Processing ⭐ (Bonus Feature)
+### Audio & Video Processing (Extra  Feature)
 - **Audio Transcription**: Upload MP3, WAV, M4A files for automatic transcription
 - **Video Support**: Process MP4, AVI, MOV, WEBM files with automatic audio extraction
 - **Large File Handling**: Support for files up to 250MB
